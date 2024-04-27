@@ -22,3 +22,5 @@ Chatin avustuksella meni silti hetki saada homma toimimaan. tarkennettuna Apieke
 SYY: en edennyt loppytyön teossa.
 
 Rambon idea saatu täältä: https://svelte.dev/examples/svelte-body. Huomio että koodin suora kopioiminen ei ainakaan itsellä toiminut vaan rambo kuva vaihdettu ja "animaation" sijaintia piti muuttaa miten se ilmestyy ja missä kulmassa/asennossa.
+
+++ Lopuksi lisätty customevent mikä meinasi unohtua chatilla :D ei tietoa onko mitenkään järkevää.
