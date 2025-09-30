@@ -1,5 +1,16 @@
-This repository contains the frontend for a final project. The application is a movie search where the user can look up movies.  
-The user enters the name of a movie they want to search for, and the results display the movie’s title, image, and a short description of the movie.  
+#Project Movie-search-app
+
+This repository contains the Movie-search-app project.  
+
+The application is a simple **movie search tool**, where users can look up movies by entering a movie title.  
+
+## Features
+- Search for movies by name  
+- Display results including:  
+  - Movie title  
+  - Poster image  
+  - Short description  
+
 
 
 
