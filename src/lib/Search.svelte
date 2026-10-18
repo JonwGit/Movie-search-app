@@ -9,7 +9,7 @@
 
   const dispatch = createEventDispatcher();
 
-  const apiKey = 'bcc97c082eac46e9742e3243f7ab9e8d';
+  const apiKey = 'YOUR-API-KEY';
 
   async function fetchData() {
     searchResults.set([]);
